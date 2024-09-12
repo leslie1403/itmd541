@@ -6,17 +6,25 @@ h1{
  }
  
  h2{
-   font-family: "Georgia", "Arial", serif;
+   font-family: "Merriweather", "Arial", serif;
    font-size: 115%;
    text-decoration: underline;
  }
  
- ul,li,p{
+li,ul,p{
    font-family: "Georgia", "Arial",serif;
-   font-size: 110%;
+   font-size: 100%;
  }
  
  body{
    background-color: lightgreen;
    margin-left: 10%;
    margin-right: 10%;}
+
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 25px;
+  }
