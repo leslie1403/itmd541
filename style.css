@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+h1{
+    font-family: "Merriweather", "Arial", serif;
+    text-align: center;
+ }
+ 
+ h2{
+   font-family: "Georgia", "Arial", serif;
+   font-size: 115%;
+   text-decoration: underline;
+ }
+ 
+ ul,li,p{
+   font-family: "Georgia", "Arial",serif;
+   font-size: 110%;
+ }
+ 
+ body{
+   background-color: lightgreen;
+   margin-left: 10%;
+   margin-right: 10%;}
