@@ -63,7 +63,12 @@
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-
+	display: grid;
+	grid-template-areas: "a b c d"
+						 "e f . .";
+	margin: 0;
+	grid-auto-rows: 100px;
+	gap: 20px;
 }
 
 /* end Grid Part 1 */
